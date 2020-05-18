@@ -141,7 +141,7 @@ export const ProjectStatus = ({ projectPath }: { projectPath: string }) => {
         }}
       >
         <img
-          src={`${webUrl.protocol}//${webUrl.host}${project.repository.tree.lastCommit.author.avatarUrl}`}
+          src={`${webUrl.protocol}//${webUrl.host}${project.repository.tree.lastCommit.author?.avatarUrl}`}
           alt=""
           style={{
             marginRight: 8,
@@ -150,7 +150,7 @@ export const ProjectStatus = ({ projectPath }: { projectPath: string }) => {
             borderRadius: "50%",
           }}
         />
-        {project.repository.tree.lastCommit.author.name}
+        {project.repository.tree.lastCommit.author?.name}
       </div>
     </div>
   )
