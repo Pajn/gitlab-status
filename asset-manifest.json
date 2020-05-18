@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gitlab-status/static/css/main.7f8c9d2b.chunk.css",
-    "main.js": "/gitlab-status/static/js/main.7a17d327.chunk.js",
-    "main.js.map": "/gitlab-status/static/js/main.7a17d327.chunk.js.map",
+    "main.js": "/gitlab-status/static/js/main.7325516f.chunk.js",
+    "main.js.map": "/gitlab-status/static/js/main.7325516f.chunk.js.map",
     "runtime-main.js": "/gitlab-status/static/js/runtime-main.7e26409b.js",
     "runtime-main.js.map": "/gitlab-status/static/js/runtime-main.7e26409b.js.map",
     "static/js/2.6b1b79ef.chunk.js": "/gitlab-status/static/js/2.6b1b79ef.chunk.js",
     "static/js/2.6b1b79ef.chunk.js.map": "/gitlab-status/static/js/2.6b1b79ef.chunk.js.map",
     "index.html": "/gitlab-status/index.html",
-    "precache-manifest.f1ef002cbf0c6948168a502d54de4b3d.js": "/gitlab-status/precache-manifest.f1ef002cbf0c6948168a502d54de4b3d.js",
+    "precache-manifest.5878926309f56d8f79c0893ef23d8ff9.js": "/gitlab-status/precache-manifest.5878926309f56d8f79c0893ef23d8ff9.js",
     "service-worker.js": "/gitlab-status/service-worker.js",
     "static/css/main.7f8c9d2b.chunk.css.map": "/gitlab-status/static/css/main.7f8c9d2b.chunk.css.map",
     "static/js/2.6b1b79ef.chunk.js.LICENSE.txt": "/gitlab-status/static/js/2.6b1b79ef.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.7e26409b.js",
     "static/js/2.6b1b79ef.chunk.js",
     "static/css/main.7f8c9d2b.chunk.css",
-    "static/js/main.7a17d327.chunk.js"
+    "static/js/main.7325516f.chunk.js"
   ]
 }
